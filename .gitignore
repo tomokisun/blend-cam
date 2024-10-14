@@ -1,0 +1,12 @@
+.DS_Store
+/.build
+/Packages
+xcuserdata/
+*.build
+.iso-env
+.private
+App/.swiftpm
+Assets/.swiftpm
+Bootstrap/.swiftpm
+Assets/Audio/*
+Audio.zip
